@@ -13,7 +13,7 @@ python test_card_deck.py
 ```
 
 ## Key Dependencies
-Python 3. For requirements, see ```requirements.txt.```
+Python 3.
 
 ## Future Enhancements
 Conversion to a fully automated bot that plays cards with you and has a keen interest in ancient history and Belgian ales.
